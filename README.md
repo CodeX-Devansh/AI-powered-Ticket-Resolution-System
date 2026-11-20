@@ -41,22 +41,6 @@ Decision
                          Resolve
 
 
-## Project Structure
-
-
-AgenticAI/
-├── backend/
-│   ├── main.py
-│   ├── model.py
-│   ├── schema.py
-│   ├── config.py
-│   ├── Agents/
-│   └── graph/
-├── frontend/
-│   └── app.py
-├── knowledge_base/
-├── pyproject.toml
-└── README.md
 
 
 ## Run the Project
