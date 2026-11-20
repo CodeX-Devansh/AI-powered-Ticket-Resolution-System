@@ -61,7 +61,7 @@ AgenticAI/
 
 ## Run the Project
 
-Install dependencies:
+Install dependencies: 
 
 bash
 uv sync
