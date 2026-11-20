@@ -1,0 +1,34 @@
+Article ID: KB001
+Title: VPN Troubleshooting
+Category: Network
+Subcategory: VPN
+
+Problem:
+The employee can connect to the corporate VPN, but internal company applications or websites cannot be accessed.
+
+Symptoms:
+- VPN shows connected.
+- Public internet may work.
+- Internal applications fail to open.
+- Internal websites may be unreachable.
+
+Troubleshooting Steps:
+1. Confirm that normal internet access is working.
+2. Disconnect from the VPN.
+3. Close and restart the VPN client.
+4. Clear the local DNS cache.
+5. Reconnect to the VPN.
+6. Retry the internal application.
+7. If possible, check whether other employees have the same problem.
+
+Resolution:
+If the VPN reconnects successfully and internal resources are accessible, no further action is required.
+
+Escalation:
+Escalate to Network Support if the issue continues or multiple employees are affected.
+
+Priority Guidance:
+High when multiple employees are affected; Medium for a single employee.
+
+Keywords:
+VPN, remote access, internal application, corporate network, VPN connected

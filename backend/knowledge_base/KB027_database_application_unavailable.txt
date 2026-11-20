@@ -1,0 +1,26 @@
+Article ID: KB027
+Title: Business Database Application Unavailable
+Category: Application
+Subcategory: Database Application
+
+Problem:
+A business application that depends on a database cannot be accessed.
+
+Troubleshooting Steps:
+1. Confirm whether the problem affects one user or multiple users.
+2. Verify network or VPN connectivity.
+3. Record the application error message.
+4. Do not modify database configuration or credentials.
+5. Check whether the application has a known service outage.
+
+Resolution:
+Access is restored when the application and its required backend services are available.
+
+Escalation:
+Escalate immediately to Application Support when multiple users are affected or the backend service appears unavailable.
+
+Priority Guidance:
+Critical or High depending on business impact and number of affected users.
+
+Keywords:
+database application, application unavailable, backend service, database

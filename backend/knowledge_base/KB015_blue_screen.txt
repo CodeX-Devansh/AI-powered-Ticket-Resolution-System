@@ -1,0 +1,27 @@
+Article ID: KB015
+Title: Blue Screen or Unexpected System Restart
+Category: Hardware
+Subcategory: System Failure
+
+Problem:
+The workstation displays a blue-screen error or unexpectedly restarts.
+
+Troubleshooting Steps:
+1. Record the displayed error message or code.
+2. Note when the failure occurred.
+3. Disconnect recently attached nonessential peripherals.
+4. Restart the device if it can restart safely.
+5. Check for approved operating-system updates.
+6. Do not repeatedly attempt risky recovery procedures.
+
+Resolution:
+If the system starts normally, monitor for recurrence and provide the recorded error information.
+
+Escalation:
+Escalate to Desktop Support for recurring failures or suspected hardware/driver problems.
+
+Priority Guidance:
+High when the device repeatedly crashes and prevents work.
+
+Keywords:
+blue screen, BSOD, system crash, restart, computer crash

@@ -1,0 +1,31 @@
+Article ID: KB006
+Title: Multi-Factor Authentication Problem
+Category: Account
+Subcategory: MFA
+
+Problem:
+The employee cannot complete multi-factor authentication.
+
+Symptoms:
+- Verification code is not received.
+- Authenticator approval does not appear.
+- Registered device is unavailable.
+
+Troubleshooting Steps:
+1. Confirm the registered phone or authenticator device has connectivity.
+2. Check that the device date and time are correct.
+3. Request a new verification code if supported.
+4. Confirm the correct account is selected in the authenticator.
+5. Use an approved alternate verification method if available.
+
+Resolution:
+Complete MFA successfully and verify application access.
+
+Escalation:
+Escalate to Identity and Access Management if the registered device is lost or MFA registration must be changed.
+
+Priority Guidance:
+High if the employee cannot access required work systems.
+
+Keywords:
+MFA, multi-factor authentication, OTP, authenticator, verification code

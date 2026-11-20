@@ -1,0 +1,27 @@
+Article ID: KB013
+Title: Slow Laptop Performance
+Category: Hardware
+Subcategory: Performance
+
+Problem:
+The workstation is unusually slow during normal use.
+
+Troubleshooting Steps:
+1. Close unnecessary applications.
+2. Check whether many applications start automatically.
+3. Check available disk space.
+4. Restart the workstation.
+5. Install approved pending updates.
+6. Report whether the slowdown affects all applications or only one.
+
+Resolution:
+Performance should improve after unnecessary processes are closed and the device is restarted.
+
+Escalation:
+Escalate to Desktop Support if performance remains poor or hardware diagnostics are required.
+
+Priority Guidance:
+Low to Medium.
+
+Keywords:
+slow laptop, slow computer, performance, workstation

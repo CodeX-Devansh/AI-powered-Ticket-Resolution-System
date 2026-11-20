@@ -1,0 +1,26 @@
+Article ID: KB021
+Title: Shared Drive Access
+Category: Access
+Subcategory: Shared Drive
+
+Problem:
+An employee cannot access a shared company drive.
+
+Troubleshooting Steps:
+1. Confirm the employee is connected to the corporate network or VPN when required.
+2. Verify the shared-drive path.
+3. Check whether other employees can access the same location.
+4. Confirm the employee's account is active.
+5. Verify that the employee has been granted the required access.
+
+Resolution:
+Access should be restored after connectivity and permissions are confirmed.
+
+Escalation:
+Escalate permission issues to the appropriate Access Management or application owner.
+
+Priority Guidance:
+High when a critical team share is unavailable to multiple users; otherwise Medium.
+
+Keywords:
+shared drive, network drive, file share, drive access

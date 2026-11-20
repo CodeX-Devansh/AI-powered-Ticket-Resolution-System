@@ -1,0 +1,26 @@
+Article ID: KB012
+Title: Printer Shows Offline
+Category: Hardware
+Subcategory: Printer
+
+Problem:
+A network printer is displayed as offline.
+
+Troubleshooting Steps:
+1. Confirm the printer is powered on.
+2. Check the network cable or wireless connection where applicable.
+3. Verify whether other users can print.
+4. Remove and reconnect the printer using the approved method.
+5. Restart the printer if required.
+
+Resolution:
+The printer should show as available and accept a test print.
+
+Escalation:
+Escalate to Desktop or Network Support when the printer remains unreachable for multiple users.
+
+Priority Guidance:
+Medium; High only when a critical shared printer service is unavailable.
+
+Keywords:
+printer offline, network printer, printer unavailable

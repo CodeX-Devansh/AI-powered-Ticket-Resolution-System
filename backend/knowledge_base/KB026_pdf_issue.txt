@@ -1,0 +1,27 @@
+Article ID: KB026
+Title: PDF File Cannot Be Opened
+Category: Software
+Subcategory: PDF
+
+Problem:
+An employee cannot open a PDF document.
+
+Troubleshooting Steps:
+1. Confirm the file downloaded completely.
+2. Try opening another known-good PDF.
+3. Confirm an approved PDF reader is installed.
+4. Save the document locally and retry.
+5. Check whether the file is corrupted or incomplete.
+6. Do not install unapproved PDF software.
+
+Resolution:
+A valid PDF should open using the approved PDF reader.
+
+Escalation:
+Escalate to Software Support when the reader fails with multiple valid PDFs.
+
+Priority Guidance:
+Low to Medium.
+
+Keywords:
+PDF, PDF reader, document cannot open, PDF error

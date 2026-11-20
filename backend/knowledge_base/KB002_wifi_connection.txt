@@ -1,0 +1,32 @@
+Article ID: KB002
+Title: Corporate Wi-Fi Connection Troubleshooting
+Category: Network
+Subcategory: Wi-Fi
+
+Problem:
+The employee cannot connect to the corporate wireless network.
+
+Symptoms:
+- Corporate Wi-Fi is not visible.
+- Wi-Fi authentication fails.
+- Device connects and immediately disconnects.
+
+Troubleshooting Steps:
+1. Confirm Wi-Fi is enabled on the device.
+2. Move closer to the access point if the signal is weak.
+3. Forget the corporate Wi-Fi network.
+4. Reconnect and enter the corporate credentials.
+5. Restart the device.
+6. Check whether another device can connect to the same network.
+
+Resolution:
+Reconnect successfully to the corporate Wi-Fi and verify internet access.
+
+Escalation:
+Escalate to Network Support if several employees are affected or authentication continues to fail.
+
+Priority Guidance:
+Medium for one employee; High when an office area is affected.
+
+Keywords:
+Wi-Fi, wireless, network, connection, corporate Wi-Fi

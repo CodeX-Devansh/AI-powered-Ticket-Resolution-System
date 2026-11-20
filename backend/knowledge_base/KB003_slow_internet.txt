@@ -1,0 +1,32 @@
+Article ID: KB003
+Title: Slow Internet Connection
+Category: Network
+Subcategory: Internet
+
+Problem:
+Internet access is available but web pages and online services load unusually slowly.
+
+Symptoms:
+- High page-loading time.
+- Video or file transfers are slow.
+- Network speed is significantly below normal.
+
+Troubleshooting Steps:
+1. Confirm whether the problem affects one device or multiple devices.
+2. Restart the network connection.
+3. Close applications using large amounts of bandwidth.
+4. Test a different website or service.
+5. Restart the workstation if required.
+6. Report the approximate time and affected services.
+
+Resolution:
+Normal browsing speed should return after local bandwidth-consuming applications are closed or connectivity is restored.
+
+Escalation:
+Escalate to Network Support if multiple users are affected or performance remains poor.
+
+Priority Guidance:
+Medium for one user; High for widespread degradation.
+
+Keywords:
+slow internet, network speed, bandwidth, slow connection

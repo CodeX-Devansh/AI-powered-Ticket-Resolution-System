@@ -1,0 +1,26 @@
+Article ID: KB028
+Title: Suspicious Login Activity
+Category: Security
+Subcategory: Suspicious Login
+
+Problem:
+An employee receives an alert for a login they do not recognize.
+
+Immediate Actions:
+1. Do not approve an unexpected MFA request.
+2. Do not click links in suspicious security-alert emails.
+3. Report the event through the approved security reporting process.
+4. If the employee believes credentials may have been compromised, follow the approved password-reset procedure.
+5. Provide the security team with the alert time and location shown in the alert.
+
+Resolution:
+Security validates the event and secures the account if compromise is suspected.
+
+Escalation:
+Always escalate suspected unauthorized access to Security.
+
+Priority Guidance:
+Critical until Security determines that the event is benign.
+
+Keywords:
+suspicious login, unauthorized login, account compromise, security alert

@@ -1,0 +1,27 @@
+Article ID: KB014
+Title: Laptop Does Not Start
+Category: Hardware
+Subcategory: Power
+
+Problem:
+The employee's laptop does not power on.
+
+Troubleshooting Steps:
+1. Connect the approved power adapter.
+2. Confirm the power indicator is active.
+3. Try a known-good power outlet.
+4. Disconnect nonessential peripherals.
+5. Hold the power button according to the approved device procedure.
+6. Do not open the device chassis.
+
+Resolution:
+If the laptop starts normally, verify the operating system loads successfully.
+
+Escalation:
+Escalate immediately to Desktop Support if there is no power indication or suspected hardware failure.
+
+Priority Guidance:
+High when the employee cannot work and no alternate workstation is available.
+
+Keywords:
+laptop not starting, computer not turning on, power issue

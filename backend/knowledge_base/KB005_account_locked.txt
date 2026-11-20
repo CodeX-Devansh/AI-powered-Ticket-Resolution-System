@@ -1,0 +1,26 @@
+Article ID: KB005
+Title: Account Locked
+Category: Account
+Subcategory: Account Lock
+
+Problem:
+The employee's corporate account is locked after repeated unsuccessful authentication attempts.
+
+Troubleshooting Steps:
+1. Stop attempting to sign in repeatedly.
+2. Confirm the employee ID.
+3. Use the approved account-unlock procedure if available.
+4. Reset the password if the password may be incorrect.
+5. Wait for the standard lockout period when automatic unlock is configured.
+
+Resolution:
+Verify that the employee can sign in successfully after the account is unlocked.
+
+Escalation:
+Escalate to Identity and Access Management when the account remains locked or the unlock process fails.
+
+Priority Guidance:
+High when the employee requires immediate access to critical work; otherwise Medium.
+
+Keywords:
+account locked, locked account, login failed, authentication

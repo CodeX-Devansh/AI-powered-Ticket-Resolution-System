@@ -1,0 +1,27 @@
+Article ID: KB008
+Title: Email Not Received
+Category: Email
+Subcategory: Mail Delivery
+
+Problem:
+An expected email has not appeared in the employee's mailbox.
+
+Troubleshooting Steps:
+1. Search the mailbox using the sender and subject.
+2. Check Junk or Spam folders.
+3. Check mailbox rules and filters.
+4. Confirm the sender used the correct address.
+5. Ask the sender to verify whether delivery failed.
+6. Check whether other messages are arriving normally.
+
+Resolution:
+Locate the message or confirm successful delivery.
+
+Escalation:
+Escalate to Email Support if multiple recipients are affected or delivery failures are reported.
+
+Priority Guidance:
+Medium unless the missing message blocks a critical business process.
+
+Keywords:
+email missing, email not received, mail delivery, mailbox

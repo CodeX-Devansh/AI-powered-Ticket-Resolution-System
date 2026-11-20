@@ -1,0 +1,26 @@
+Article ID: KB009
+Title: Email Attachment Problem
+Category: Email
+Subcategory: Attachments
+
+Problem:
+An employee cannot send, receive, or open an email attachment.
+
+Troubleshooting Steps:
+1. Confirm the attachment file size.
+2. Check whether the file type is permitted.
+3. Try downloading the attachment before opening it.
+4. Confirm the attachment is not corrupted.
+5. If sending, compress the file or use the approved file-sharing method when permitted.
+
+Resolution:
+The attachment should be transferred and opened using an approved method.
+
+Escalation:
+Escalate to Email Support or Security when an attachment is blocked for security reasons.
+
+Priority Guidance:
+Medium.
+
+Keywords:
+email attachment, attachment blocked, file attachment, email file

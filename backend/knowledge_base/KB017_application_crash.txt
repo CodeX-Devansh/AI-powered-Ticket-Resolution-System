@@ -1,0 +1,27 @@
+Article ID: KB017
+Title: Business Application Crashes
+Category: Software
+Subcategory: Application Crash
+
+Problem:
+A business application closes unexpectedly or crashes during use.
+
+Troubleshooting Steps:
+1. Record the application name and error message.
+2. Restart the application.
+3. Restart the workstation.
+4. Confirm the application version.
+5. Check whether other users experience the same problem.
+6. Retry the operation that caused the crash.
+
+Resolution:
+The application should complete the required operation without crashing.
+
+Escalation:
+Escalate to Application Support when the problem is reproducible or affects multiple users.
+
+Priority Guidance:
+High when a critical business application is unavailable to multiple users.
+
+Keywords:
+application crash, software crash, app closes, application error

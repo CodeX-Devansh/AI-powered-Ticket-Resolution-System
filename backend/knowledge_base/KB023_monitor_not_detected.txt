@@ -1,0 +1,27 @@
+Article ID: KB023
+Title: External Monitor Not Detected
+Category: Hardware
+Subcategory: Monitor
+
+Problem:
+A workstation does not detect an attached external monitor.
+
+Troubleshooting Steps:
+1. Confirm the monitor is powered on.
+2. Check the display cable at both ends.
+3. Select the correct input source on the monitor.
+4. Reconnect the display cable.
+5. Use the operating-system display settings to detect displays.
+6. Restart the workstation if necessary.
+
+Resolution:
+The external monitor should display an extended or duplicated desktop.
+
+Escalation:
+Escalate to Desktop Support if the monitor or docking hardware appears faulty.
+
+Priority Guidance:
+Low to Medium.
+
+Keywords:
+monitor, external display, second monitor, display not detected

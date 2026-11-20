@@ -1,0 +1,27 @@
+Article ID: KB018
+Title: Application Not Responding
+Category: Software
+Subcategory: Application Performance
+
+Problem:
+An application becomes unresponsive while running.
+
+Troubleshooting Steps:
+1. Wait briefly to determine whether the application recovers.
+2. Check whether other applications are responsive.
+3. Close the application if it remains unresponsive.
+4. Restart the application.
+5. Restart the workstation if required.
+6. Record the operation being performed when the issue occurred.
+
+Resolution:
+The application should become responsive and perform the required task.
+
+Escalation:
+Escalate to Application Support for repeated or widespread failures.
+
+Priority Guidance:
+Medium.
+
+Keywords:
+application frozen, not responding, software frozen

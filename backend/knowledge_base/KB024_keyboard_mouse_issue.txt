@@ -1,0 +1,27 @@
+Article ID: KB024
+Title: Keyboard or Mouse Not Working
+Category: Hardware
+Subcategory: Peripherals
+
+Problem:
+The keyboard or mouse is not responding.
+
+Troubleshooting Steps:
+1. Check the physical connection or wireless receiver.
+2. Replace batteries for approved wireless devices if needed.
+3. Reconnect the peripheral.
+4. Test another USB port when applicable.
+5. Restart the workstation.
+6. Test with an approved spare peripheral if available.
+
+Resolution:
+The keyboard or mouse should respond normally.
+
+Escalation:
+Escalate to Desktop Support if the peripheral remains nonfunctional.
+
+Priority Guidance:
+Low to Medium.
+
+Keywords:
+keyboard, mouse, USB, peripheral, input device

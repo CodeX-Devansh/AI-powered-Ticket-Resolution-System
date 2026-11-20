@@ -1,0 +1,28 @@
+Article ID: KB007
+Title: Outlook Not Working
+Category: Email
+Subcategory: Outlook
+
+Problem:
+The employee's Outlook desktop application does not open, sync, or display current mail.
+
+Troubleshooting Steps:
+1. Confirm internet connectivity.
+2. Check whether Outlook Web Access works.
+3. Restart Outlook.
+4. Restart the workstation if necessary.
+5. Confirm that Outlook is not in offline mode.
+6. Check whether the mailbox is near its storage limit.
+7. If the problem is limited to the desktop application, escalate for profile repair.
+
+Resolution:
+Verify that Outlook opens and synchronizes new messages.
+
+Escalation:
+Escalate to Email Support if Outlook Web Access also fails or mailbox service is unavailable.
+
+Priority Guidance:
+High when email service is unavailable for multiple employees; otherwise Medium.
+
+Keywords:
+Outlook, email client, mailbox, email sync

@@ -1,0 +1,27 @@
+Article ID: KB025
+Title: Corporate Browser Problem
+Category: Software
+Subcategory: Browser
+
+Problem:
+A corporate website does not load correctly in the approved browser.
+
+Troubleshooting Steps:
+1. Confirm internet connectivity.
+2. Try refreshing the page.
+3. Open the site in a private/incognito window if allowed.
+4. Clear the browser cache according to the approved procedure.
+5. Disable only approved extensions if they are suspected to interfere.
+6. Check whether the same site fails for other users.
+
+Resolution:
+The website should load normally after local browser troubleshooting.
+
+Escalation:
+Escalate to Application or Network Support if the issue affects multiple users.
+
+Priority Guidance:
+Medium.
+
+Keywords:
+browser, website not loading, cache, corporate website

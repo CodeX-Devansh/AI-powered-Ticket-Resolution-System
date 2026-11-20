@@ -1,0 +1,27 @@
+Article ID: KB019
+Title: Teams Microphone Not Working
+Category: Collaboration
+Subcategory: Audio
+
+Problem:
+The employee's microphone does not work during an online meeting.
+
+Troubleshooting Steps:
+1. Confirm the microphone is not muted.
+2. Check the selected microphone in meeting settings.
+3. Test the microphone using the operating-system audio settings.
+4. Disconnect and reconnect an external headset if used.
+5. Restart the collaboration application.
+6. Verify application microphone permissions.
+
+Resolution:
+Perform a test call and confirm that the microphone is detected.
+
+Escalation:
+Escalate to Desktop Support if the microphone does not work in other applications.
+
+Priority Guidance:
+Medium.
+
+Keywords:
+Teams, microphone, audio, headset, meeting audio

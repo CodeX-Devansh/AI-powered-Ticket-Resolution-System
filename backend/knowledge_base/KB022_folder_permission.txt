@@ -1,0 +1,27 @@
+Article ID: KB022
+Title: Folder Permission Request
+Category: Access
+Subcategory: File Permissions
+
+Problem:
+An employee needs access to a restricted folder or needs additional permissions.
+
+Procedure:
+1. Identify the folder and required access level.
+2. Confirm the employee's business need.
+3. Submit the approved access request.
+4. Obtain required owner or manager approval.
+5. Access Management applies the approved permission.
+6. Verify access after the change.
+
+Resolution:
+The employee can access only the approved folder and permissions.
+
+Escalation:
+Escalate approval or permission failures to Access Management.
+
+Priority Guidance:
+Medium.
+
+Keywords:
+folder access, permissions, access request, file permissions

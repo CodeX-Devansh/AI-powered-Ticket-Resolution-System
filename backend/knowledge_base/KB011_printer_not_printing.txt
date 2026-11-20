@@ -1,0 +1,28 @@
+Article ID: KB011
+Title: Printer Not Printing
+Category: Hardware
+Subcategory: Printer
+
+Problem:
+A workstation sends a document to a printer but the document does not print.
+
+Troubleshooting Steps:
+1. Confirm the correct printer is selected.
+2. Check whether the printer is powered on.
+3. Check the printer display for errors.
+4. Verify paper and toner availability.
+5. Clear stuck print jobs.
+6. Restart the printer if appropriate.
+7. Print a test page.
+
+Resolution:
+Successful test printing confirms the issue is resolved.
+
+Escalation:
+Escalate to Desktop Support if hardware errors continue.
+
+Priority Guidance:
+Medium.
+
+Keywords:
+printer, printing, print queue, print job

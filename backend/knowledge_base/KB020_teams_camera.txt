@@ -1,0 +1,27 @@
+Article ID: KB020
+Title: Teams Camera Not Working
+Category: Collaboration
+Subcategory: Video
+
+Problem:
+The employee's camera does not work during an online meeting.
+
+Troubleshooting Steps:
+1. Confirm the camera shutter or privacy control is open.
+2. Verify the correct camera is selected.
+3. Check application camera permissions.
+4. Close other applications that may be using the camera.
+5. Restart the collaboration application.
+6. Test the camera in the operating-system camera application.
+
+Resolution:
+The camera should display a live preview and work in a test meeting.
+
+Escalation:
+Escalate to Desktop Support if the camera fails in multiple applications.
+
+Priority Guidance:
+Medium.
+
+Keywords:
+Teams, camera, video, webcam, meeting video

@@ -1,0 +1,26 @@
+Article ID: KB016
+Title: Approved Software Installation
+Category: Software
+Subcategory: Installation
+
+Problem:
+An employee needs an approved application installed.
+
+Procedure:
+1. Confirm the requested software is approved.
+2. Verify the employee has permission to use it.
+3. Use the organization's approved software portal or installation process.
+4. Install the application.
+5. Launch the application and verify basic functionality.
+
+Resolution:
+The approved application is installed and launches successfully.
+
+Escalation:
+Escalate when the software requires a license, elevated permissions, or approval.
+
+Priority Guidance:
+Low to Medium.
+
+Keywords:
+software installation, application install, software request

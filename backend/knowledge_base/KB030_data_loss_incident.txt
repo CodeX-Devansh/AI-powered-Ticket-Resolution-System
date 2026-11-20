@@ -1,0 +1,26 @@
+Article ID: KB030
+Title: Suspected Data Loss or Unauthorized Data Exposure
+Category: Security
+Subcategory: Data Loss
+
+Problem:
+An employee believes confidential company information may have been sent to an unauthorized recipient or exposed.
+
+Immediate Actions:
+1. Do not attempt to conceal or delete evidence.
+2. Record what information may have been exposed.
+3. Record the recipient, system, or location involved.
+4. Report the incident immediately through the approved Security or Data Protection process.
+5. Follow instructions from the incident-response team.
+
+Resolution:
+Security and the appropriate data-protection team investigate and determine containment and notification requirements.
+
+Escalation:
+Always escalate immediately to Security/Data Protection.
+
+Priority Guidance:
+Critical.
+
+Keywords:
+data loss, data exposure, confidential information, unauthorized sharing, security incident

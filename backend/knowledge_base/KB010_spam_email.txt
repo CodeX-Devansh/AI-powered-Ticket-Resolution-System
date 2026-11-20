@@ -1,0 +1,25 @@
+Article ID: KB010
+Title: Spam and Unwanted Email
+Category: Email
+Subcategory: Spam
+
+Problem:
+The employee receives unwanted or suspicious bulk email.
+
+Troubleshooting Steps:
+1. Do not click unknown links or open unexpected attachments.
+2. Mark unwanted messages as spam using the approved mail client.
+3. Do not reply to suspicious senders.
+4. Report suspected phishing using the approved reporting mechanism.
+
+Resolution:
+The message is reported and removed according to company policy.
+
+Escalation:
+Escalate suspected phishing or credential-harvesting messages to Security.
+
+Priority Guidance:
+High when the message appears to be a targeted security threat; otherwise Low or Medium.
+
+Keywords:
+spam, phishing, suspicious email, unwanted email
